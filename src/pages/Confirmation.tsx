@@ -21,7 +21,7 @@ const Confirmation: React.FC = () => {
 
         <Button 
           title="Comecar"
-          onPress={() => navigation.navigate('Welcome')}
+          onPress={() => navigation.navigate('PlantSelection')}
         />
       </View>
     </SafeAreaView>
