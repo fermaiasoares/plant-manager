@@ -1,5 +1,6 @@
 export default {
   heading: 'Jost_600SemiBold',
   text: 'Jost_400Regular',
-  complement: 'Jost_500Medium'
+  complement: 'Jost_500Medium',
+  light: 'Jost_300Light'
 }
